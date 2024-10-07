@@ -204,5 +204,5 @@ def main():
 
 
 if __name__ == "__main__":
-    test_run_fl()
-    # main()
+    # test_run_fl()
+    main()
